@@ -1,7 +1,7 @@
 # Thesis-on-Bayesian-Quadrature
 My Bachelors thesis on the re-weighting trick in Bayesian quadrature and the slides for the presentation.
 
-# Abstract:
+Abstract:
 
 A task that frequently occurs in machine learning is the computation of inte-
 grals. These integrals are often intractable, and we must resort to approxima-

@@ -3,8 +3,8 @@ My Bachelors thesis on the re-weighting trick in Bayesian quadrature and the sli
 
 Abstract:
 
-A task that frequently occurs in machine learning is the computation of inte-
-grals. These integrals are often intractable, and we must resort to approxima-
+A task that frequently occurs in machine learning is the computation of integrals. 
+These integrals are often intractable, and we must resort to approxima-
 tion methods. One of these approximation methods is Bayesian quadrature.
 It seeks to turn the problem of evaluating the integral into a Bayesian in-
 ference task. We start with a prior over the integrand and make inferences
